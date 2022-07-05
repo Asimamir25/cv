@@ -1,0 +1,83 @@
+div{
+    
+    border-radius: 5px;
+
+
+}
+#header{
+ position: fixed;
+ width: 95%;
+ height: 60px;
+padding-left: 20px;
+z-index: 1;
+margin-left: 1px;
+margin-top: 1px;
+background-color: black;
+}
+#name{
+
+    float: left;
+    margin-left: 5px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 19px;
+}
+
+#email{
+    float: right;
+    margin-top: 1px;
+    margin-right: 20px;
+    color: #ffffff;
+}
+#right{
+    float: left;
+    padding-left: 20px;
+    margin-top: 70px;
+    width: 98%;
+    background-color: rgb(132, 141, 141);
+    height: auto;
+
+}
+h3{
+    text-decoration: underline;
+}
+#Companyname{
+    height: 4px;
+    text-decoration: underline;
+}
+table{
+    border: 2px solid blue ;
+    
+
+
+}
+#heading{
+    font-weight: bold;
+}
+th{
+    
+    border: 1px solid #E88741;
+     font-weight: bolder;
+}
+ td{
+    
+    border: 1px solid black;
+    padding: 2px;
+    padding-left: 1px;
+    font-weight: bolder;
+}
+#Course-Name{
+    font-weight: bold;
+}
+#thec{
+    font-weight: bold;
+    font-size: medium;
+}
+#footer{
+    
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: rgb(87, 66, 163);
+    
+}
